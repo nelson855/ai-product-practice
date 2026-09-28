@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.DS_Store
+LOCAL_PATHS.md
+**/target/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+.env
+*.db-journal
+*.db
+/.claude/
+/.agents/
+/openspec/
