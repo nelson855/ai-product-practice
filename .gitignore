@@ -11,4 +11,4 @@ LOCAL_PATHS.md
 *.db
 /.claude/
 /.agents/
-/openspec/
+/.opencode/
