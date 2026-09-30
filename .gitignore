@@ -12,3 +12,4 @@ LOCAL_PATHS.md
 /.claude/
 /.agents/
 /.opencode/
+/docs/tmp/
